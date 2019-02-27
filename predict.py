@@ -15,7 +15,7 @@ from skimage.io import imread, imsave
 from skimage.transform import resize
 from tensorflow.python.keras import models
 
-img_path = 'eBDtheque_v2/Pages/CYB_BUBBLEGOM_T01_005.jpg'
+img_path = '49.jpg'
 model_path = '0207_e500_std_model_4.h5'
 #save path for prediction is based on the path of the image amd will be
 #saved in the same directory

@@ -1,4 +1,4 @@
-# balloon_detection
+# speech balloon image segmentation
 A tensorflow/keras convolutional neural network model for speech balloon segmentation in comics.
 
 For details see Dubray and Laubrock (arXiv preprint),
